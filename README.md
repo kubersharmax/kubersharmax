@@ -1,92 +1,48 @@
-<div align="center">
+# Kuber Sharma
 
-# The Agentic Shift Has a GTM Problem. I'm Fixing It.
+Senior Director of Product Marketing at UiPath. I write about how enterprise AI actually gets to market, the parts that are not the model.
 
-**Kuber Sharma** · Senior Director, Platform Product Marketing
-*Building the Operating Logic for the Next Wave of Enterprise AI*
+Twelve years in enterprise software across Microsoft Azure, Salesforce, Tableau, and UiPath. Twenty years in marketing overall, starting in Delhi television and digital media consulting. Currently leading go-to-market for the agentic automation portfolio.
 
-[![Website](https://img.shields.io/badge/kubersharma.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://kubersharma.com)
-[![Substack](https://img.shields.io/badge/Positioned_on_Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://positioned.substack.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kubersharmax)
-
-</div>
+[kubersharma.com](https://kubersharma.com) · [Positioned on Substack](https://getpositioned.substack.com) · [LinkedIn](https://www.linkedin.com/in/kubersharma)
 
 ---
 
-## 🧠 The Thesis
+## What is here
 
-Most companies are still running **Generative AI campaigns** inside **Industrial-Era GTM systems**.
-That's a $100M+ category error.
+This account holds the frameworks behind the writing at [kubersharma.com](https://kubersharma.com). They are practitioner tools, not academic models. Each one came out of a live problem in an enterprise product marketing function and was refined against real launches.
 
-The Agentic Shift isn't a product launch. It's an architectural change—from *campaigns* to *systems*, from *leads* to *signals*, from *pipeline generation* to *deterministic growth logic*.
-
-This GitHub is the engine room. The frameworks here power the thinking at [Positioned](https://positioned.substack.com) and the strategies I've built across Microsoft, Salesforce, and UiPath.
-
----
-
-## 🏹 Strategic Impact
-
-| Milestone | Context |
+| Repository | What it is |
 |---|---|
-| **$100M+ pipeline architected** | Enterprise GTM across Data & AI platform categories |
-| **Microsoft** | Platform strategy for developer and enterprise segments |
-| **Salesforce** | GTM for AI/CRM integration plays |
-| **UiPath** | Senior Director, Platform Product Marketing — Agentic AI |
-| **kubersharma.com** | Strategy writing and advisory work |
-| **Positioned (Substack)** | Weekly dispatches on the Agentic Shift for operators |
+| [`agentic-gtm-os`](https://github.com/kubersharmax/agentic-gtm-os) | Four frameworks for taking enterprise AI products to market. Full text, reference cards, and a worked scoring example. |
+| [`kubersharmax`](https://github.com/kubersharmax/kubersharmax) | This profile. |
 
 ---
 
-## ⚡ Current Sprint
+## The frameworks
 
-```
-Q2 2026 Focus Areas
-├── Zero-Copy Data Strategy
-│   └── How In-Situ Intelligence kills the ETL bottleneck in GTM
-├── Agentic Workflow Design
-│   └── Human-in-the-Loop architecture for sales & marketing systems
-└── Deterministic Pipeline Logic
-    └── Moving from "more MQLs" to provable, repeatable growth math
-```
+**[AMDA, the Augmented Marketing Decision Architecture](https://kubersharma.com/frameworks/amda).** A three-zone model for allocating marketing decisions between AI and humans by stakes rather than seniority. Developed at Tableau (Salesforce), refined at UiPath from 2025.
 
-→ All frameworks live in [`agentic-gtm-os`](https://github.com/kubersharmax/agentic-gtm-os)
+**[The Pilot Trap](https://kubersharma.com/frameworks/pilot-trap).** Five stages that explain why enterprise AI succeeds in the demo and dies before production.
+
+**[The Trust Architecture](https://kubersharma.com/frameworks/trust-architecture).** Three layers of enterprise buyer trust. Buyers evaluate bottom to top. Vendors pitch top to bottom. That mismatch is the whole problem.
+
+**[The Belief Bridge](https://kubersharma.com/frameworks/belief-bridge).** Four planks between what a product does and what a buyer believes it will do for them. Most GTM motions build three.
+
+All four have printable reference cards at [kubersharma.com/downloads](https://kubersharma.com/downloads), licensed CC BY-ND 4.0. No gate, no email required.
 
 ---
 
-## 🛠️ Tech Stack
+## Writing
 
-<div align="center">
+Twenty-one essays at [kubersharma.com/writing](https://kubersharma.com/writing). Weekly dispatches at [Positioned](https://getpositioned.substack.com).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Mermaid](https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+Bylined in [diginomica](https://diginomica.com/agentic-ai-not-one-size-fits-all-solution-agents-automation-human). Quoted in [CMSWire](https://www.cmswire.com/digital-experience/can-your-martech-stack-support-ai-agents-or-is-it-just-in-the-way/), COO Insider, and [CIO Grid](https://ciogrid.com/qa/tame-shadow-it-in-the-enterprise-enable-speed-without-hidden-risk/).
 
-</div>
+Delivered "AI Agents as Your GTM Copilots" at the PMA World Summit in Seattle, June 2026.
 
 ---
 
-## 📂 Repository Map
+## Contact
 
-| Repo | What It Is |
-|---|---|
-| [`agentic-gtm-os`](https://github.com/kubersharmax/agentic-gtm-os) | The master framework for Agentic GTM — open-source logic layer |
-| [`personal-governance`](https://github.com/kubersharmax/personal-governance) | My Digital Twin Constitution — how AI should represent my strategic mind |
-| [`kubersharmax`](https://github.com/kubersharmax/kubersharmax) | This profile |
-
----
-
-## 📡 Follow the Signal
-
-> *"The companies that win in the Agentic era won't be the ones with the best AI. They'll be the ones with the best GTM architecture for AI."*
-
-**Weekly dispatches → [Positioned on Substack](https://positioned.substack.com)**
-**Strategy & advisory → [kubersharma.com](https://kubersharma.com)**
-
----
-
-<div align="center">
-<sub>Built with intent. No fluff. No onions.</sub>
-</div>
+kuber@kubersharma.com. I read it. I write back, eventually.
