@@ -31,6 +31,8 @@ This account holds the frameworks behind the writing at [kubersharma.com](https:
 
 All four have printable reference cards at [kubersharma.com/downloads](https://kubersharma.com/downloads), licensed CC BY-ND 4.0. No gate, no email required.
 
+Alongside them, a technical playbook on [running GTM logic inside the warehouse](https://github.com/kubersharmax/agentic-gtm-os/blob/main/frameworks/zero-copy-playbook.md) rather than shuttling data out to run it.
+
 ---
 
 ## Writing
@@ -40,6 +42,17 @@ Twenty-one essays at [kubersharma.com/writing](https://kubersharma.com/writing).
 Bylined in [diginomica](https://diginomica.com/agentic-ai-not-one-size-fits-all-solution-agents-automation-human). Quoted in [CMSWire](https://www.cmswire.com/digital-experience/can-your-martech-stack-support-ai-agents-or-is-it-just-in-the-way/), COO Insider, and [CIO Grid](https://ciogrid.com/qa/tame-shadow-it-in-the-enterprise-enable-speed-without-hidden-risk/).
 
 Delivered "AI Agents as Your GTM Copilots" at the PMA World Summit in Seattle, June 2026.
+
+---
+
+## Elsewhere
+
+- [Frameworks](https://kubersharma.com/frameworks) and [reference cards](https://kubersharma.com/downloads)
+- [Speaking](https://kubersharma.com/speaking). PMA World Summit keynote, Seattle, June 2026. Available for panels on agentic AI strategy and enterprise GTM.
+- [Impact](https://kubersharma.com/impact). Community activity record, including three invited Sharebird AMA programs.
+- [Press](https://kubersharma.com/press). Bylines, quotes, and interviews.
+- [Advisory](https://kubersharma.com/advisory)
+- [Now](https://kubersharma.com/now). What I am working on this month.
 
 ---
 
