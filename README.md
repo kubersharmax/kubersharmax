@@ -15,13 +15,14 @@ This account holds the frameworks behind the writing at [kubersharma.com](https:
 | Repository | What it is |
 |---|---|
 | [`agentic-gtm-os`](https://github.com/kubersharmax/agentic-gtm-os) | Four frameworks for taking enterprise AI products to market. Full text, reference cards, and a worked scoring example. |
+| [`amda-skill`](https://github.com/kubersharmax/amda-skill) | A Claude skill that sorts AI decisions into governance zones. Runs the AMDA classification for you. |
 | [`kubersharmax`](https://github.com/kubersharmax/kubersharmax) | This profile. |
 
 ---
 
 ## The frameworks
 
-**[AMDA, the Augmented Marketing Decision Architecture](https://kubersharma.com/frameworks/amda).** A three-zone model for allocating marketing decisions between AI and humans by stakes rather than seniority. Developed at Tableau (Salesforce), refined at UiPath from 2025.
+**[AMDA, the Augmented Marketing Decision Architecture](https://kubersharma.com/frameworks/amda).** Available as a [Claude skill](https://github.com/kubersharmax/amda-skill). A three-zone model for allocating marketing decisions between AI and humans by stakes rather than seniority. Developed at Tableau (Salesforce), refined at UiPath from 2025.
 
 **[The Pilot Trap](https://kubersharma.com/frameworks/pilot-trap).** Five stages that explain why enterprise AI succeeds in the demo and dies before production.
 
