@@ -38,18 +38,18 @@ Alongside them, a technical playbook on [running GTM logic inside the warehouse]
 
 ## Writing
 
-Twenty-one essays at [kubersharma.com/writing](https://kubersharma.com/writing). Weekly dispatches at [Positioned](https://getpositioned.substack.com).
+Twenty-two essays at [kubersharma.com/writing](https://kubersharma.com/writing). Weekly dispatches at [Positioned](https://getpositioned.substack.com).
 
 Bylined in [diginomica](https://diginomica.com/agentic-ai-not-one-size-fits-all-solution-agents-automation-human). Quoted in [CMSWire](https://www.cmswire.com/digital-experience/can-your-martech-stack-support-ai-agents-or-is-it-just-in-the-way/), COO Insider, and [CIO Grid](https://ciogrid.com/qa/tame-shadow-it-in-the-enterprise-enable-speed-without-hidden-risk/).
 
-Delivered "AI Agents as Your GTM Copilots" at the PMA World Summit in Seattle, June 2026.
+Delivered "AI Agents as Your GTM Copilots" as a main stage session at the PMA World Summit in Seattle, June 2026.
 
 ---
 
 ## Elsewhere
 
 - [Frameworks](https://kubersharma.com/frameworks) and [reference cards](https://kubersharma.com/downloads)
-- [Speaking](https://kubersharma.com/speaking). PMA World Summit keynote, Seattle, June 2026. Available for panels on agentic AI strategy and enterprise GTM.
+- [Speaking](https://kubersharma.com/speaking). PMA World Summit main stage session, Seattle, June 2026. Available for panels on agentic AI strategy and enterprise GTM.
 - [Impact](https://kubersharma.com/impact). Community activity record, including three invited Sharebird AMA programs.
 - [Press](https://kubersharma.com/press). Bylines, quotes, and interviews.
 - [Advisory](https://kubersharma.com/advisory)
