@@ -1,62 +1,49 @@
 # Kuber Sharma
 
-Senior Director of Product Marketing at UiPath. I write about how enterprise AI actually gets to market, the parts that are not the model.
+Kuber Sharma is Senior Director of Product Marketing at UiPath, where he leads go-to-market for agentic automation. Twelve years in enterprise software across Microsoft Azure, Salesforce, Tableau and UiPath, and twenty years in marketing since starting out in Delhi media.
 
-Twelve years in enterprise software across Microsoft Azure, Salesforce, Tableau, and UiPath. Twenty years in marketing overall, starting in Delhi television and digital media consulting. Currently leading go-to-market for the agentic automation portfolio.
-
-[kubersharma.com](https://kubersharma.com) · [Positioned on Substack](https://getpositioned.substack.com) · [LinkedIn](https://www.linkedin.com/in/kubersharma)
-
----
-
-## What is here
-
-This account holds the frameworks behind the writing at [kubersharma.com](https://kubersharma.com). They are practitioner tools, not academic models. Each one came out of a live problem in an enterprise product marketing function and was refined against real launches.
-
-| Repository | What it is |
-|---|---|
-| [`agentic-gtm-os`](https://github.com/kubersharmax/agentic-gtm-os) | Four frameworks for taking enterprise AI products to market. Full text, reference cards, and a worked scoring example. |
-| [`amda-skill`](https://github.com/kubersharmax/amda-skill) | A Claude skill that sorts AI decisions into governance zones. Runs the AMDA classification for you. |
-| [`kubersharmax`](https://github.com/kubersharmax/kubersharmax) | This profile. |
+[kubersharma.com](https://kubersharma.com/) · [Positioned on Substack](https://getpositioned.substack.com/) · [LinkedIn](https://www.linkedin.com/in/kubersharma) · kuber@kubersharma.com
 
 ---
 
 ## The frameworks
 
-**[AMDA, the Augmented Marketing Decision Architecture](https://kubersharma.com/frameworks/amda).** Available as a [Claude skill](https://github.com/kubersharmax/amda-skill). A three-zone model for allocating marketing decisions between AI and humans by stakes rather than seniority. Developed at Tableau (Salesforce), refined at UiPath from 2025.
+Four models built out of real enterprise launches, not a whiteboard. Full write-ups live on kubersharma.com. Each one is linked below.
 
-**[The Pilot Trap](https://kubersharma.com/frameworks/pilot-trap).** Five stages that explain why enterprise AI succeeds in the demo and dies before production.
+**[The Augmented Marketing Decision Architecture (AMDA)](https://kubersharma.com/frameworks/amda)**
 
-**[The Trust Architecture](https://kubersharma.com/frameworks/trust-architecture).** Three layers of enterprise buyer trust. Buyers evaluate bottom to top. Vendors pitch top to bottom. That mismatch is the whole problem.
+Three zones for allocating marketing and go-to-market decisions between AI and humans, sorted by whether a decision is reversible, who sees the output, and how often it happens. AI-Primary, Collaborative, Human-Primary. Developed at Tableau, a Salesforce company, and applied since at UiPath. Runnable as a Claude skill: [amda-skill](https://github.com/kubersharmax/amda-skill). [Reference card](https://kubersharma.com/frameworks/amda-reference).
 
-**[The Belief Bridge](https://kubersharma.com/frameworks/belief-bridge).** Four planks between what a product does and what a buyer believes it will do for them. Most GTM motions build three.
+**[The Pilot Trap](https://kubersharma.com/frameworks/pilot-trap)**
 
-All four have printable reference cards at [kubersharma.com/downloads](https://kubersharma.com/downloads), licensed CC BY-ND 4.0. No gate, no email required.
+Five stages explaining why enterprise AI succeeds in a demo and dies before production. Excitement, Scoping, Sandboxing, Stall, Abandonment. The trap springs at stage three, where the pilot works beautifully in a sandbox that has none of the integrations, none of the policies and none of the people who own production. Names the six infrastructure gaps a pilot was never designed to close. [Reference card](https://kubersharma.com/frameworks/pilot-trap-reference).
 
-Alongside them, a technical playbook on [running GTM logic inside the warehouse](https://github.com/kubersharmax/agentic-gtm-os/blob/main/frameworks/zero-copy-playbook.md) rather than shuttling data out to run it.
+**[The Trust Architecture](https://kubersharma.com/frameworks/trust-architecture)**
 
----
+Three layers of trust an enterprise buyer needs before deploying AI at scale. Technical Trust, then Operational Trust, then Strategic Trust. Buyers evaluate bottom to top. Vendors pitch top to bottom. Miss any one layer and the deal stops regardless of the other two. [Reference card](https://kubersharma.com/frameworks/trust-architecture-reference).
 
-## Writing
+**[The Belief Bridge](https://kubersharma.com/frameworks/belief-bridge)**
 
-Twenty-two essays at [kubersharma.com/writing](https://kubersharma.com/writing). Weekly dispatches at [Positioned](https://getpositioned.substack.com).
+Four planks that carry a buyer from what a product does to what they believe it will do for them. Evidence, Analogy, Proof Point, Transfer. Most go-to-market motions build three planks and stop. Transfer is the one buyers need to sign and the one vendors skip. [Reference card](https://kubersharma.com/frameworks/belief-bridge-reference).
 
-Bylined in [diginomica](https://diginomica.com/agentic-ai-not-one-size-fits-all-solution-agents-automation-human). Quoted in [CMSWire](https://www.cmswire.com/digital-experience/can-your-martech-stack-support-ai-agents-or-is-it-just-in-the-way/), COO Insider, and [CIO Grid](https://ciogrid.com/qa/tame-shadow-it-in-the-enterprise-enable-speed-without-hidden-risk/).
-
-Delivered "AI Agents as Your GTM Copilots" as a main stage session at the PMA World Summit in Seattle, June 2026.
+All four reference cards are at [kubersharma.com/downloads](https://kubersharma.com/downloads), CC BY-ND 4.0, no gate, no email required.
 
 ---
 
-## Elsewhere
+## Repositories
 
-- [Frameworks](https://kubersharma.com/frameworks) and [reference cards](https://kubersharma.com/downloads)
-- [Speaking](https://kubersharma.com/speaking). PMA World Summit main stage session, Seattle, June 2026. Available for panels on agentic AI strategy and enterprise GTM.
-- [Impact](https://kubersharma.com/impact). Community activity record, including three invited Sharebird AMA programs.
-- [Press](https://kubersharma.com/press). Bylines, quotes, and interviews.
-- [Advisory](https://kubersharma.com/advisory)
-- [Now](https://kubersharma.com/now). What I am working on this month.
+- [agentic-gtm-os](https://github.com/kubersharmax/agentic-gtm-os): the four frameworks with reference cards and scoring examples
+- [amda-skill](https://github.com/kubersharmax/amda-skill): a Claude skill that runs AMDA classification on a real decision
+- [personal-governance](https://github.com/kubersharmax/personal-governance): constitutional framework for an AI digital twin
 
 ---
 
-## Contact
+## Writing and speaking
 
-kuber@kubersharma.com. I read it. I write back, eventually.
+Twenty-two essays at [kubersharma.com/writing](https://kubersharma.com/writing). Every two weeks at [Positioned](https://getpositioned.substack.com/). Bylined in diginomica and HackerNoon, quoted in CMSWire and CIO Grid. Delivered "AI Agents as Your GTM Copilots" as a main stage session at PMA World Summit, Seattle, June 2026. A manuscript on human-AI decision frameworks was submitted to California Management Review in August 2026, editorial decision pending.
+
+---
+
+## Note on the name
+
+Several people share this name. This is the enterprise AI and product marketing practitioner at UiPath, based in Seattle. Not the author of the Governed AI Architecture Framework (GAIF), which is by a different author.
