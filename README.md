@@ -12,7 +12,7 @@ Four models built out of real enterprise launches, not a whiteboard. Full write-
 
 **[The Augmented Marketing Decision Architecture (AMDA)](https://kubersharma.com/frameworks/amda)**
 
-Three zones for allocating marketing and go-to-market decisions between AI and humans, sorted by whether a decision is reversible, who sees the output, and how often it happens. AI-Primary, Collaborative, Human-Primary. Developed at Tableau, a Salesforce company, and applied since at UiPath. Runnable as a Claude skill: [amda-skill](https://github.com/kubersharmax/amda-skill). [Reference card](https://kubersharma.com/frameworks/amda-reference).
+Three zones for allocating marketing and go-to-market decisions between AI and humans, sorted by whether a decision is reversible, who sees the output, and how often it happens. AI-Primary, Collaborative, Human-Primary. Developed in an enterprise product marketing function and applied since at UiPath. Runnable as a Claude skill: [amda-skill](https://github.com/kubersharmax/amda-skill). [Reference card](https://kubersharma.com/frameworks/amda-reference).
 
 **[The Pilot Trap](https://kubersharma.com/frameworks/pilot-trap)**
 
