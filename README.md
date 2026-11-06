@@ -6,6 +6,17 @@ Kuber Sharma is Senior Director of Product Marketing at UiPath, where he leads g
 
 ---
 
+## Shipped elsewhere
+
+The AMDA decision router was reviewed and merged into [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) (28k stars, 380 skills) and ships in [release v2.13.0](https://github.com/alirezarezvani/claude-skills/releases/tag/v2.13.0), one of six community contributions accepted in that release. [The merge](https://github.com/alirezarezvani/claude-skills/pull/998).
+
+Install it from here instead:
+
+```
+/plugin marketplace add kubersharmax/amda-skill
+/plugin install amda-decision-router@amda-skill
+```
+
 ## The frameworks
 
 Four models built out of real enterprise launches, not a whiteboard. Full write-ups live on kubersharma.com. Each one is linked below.
